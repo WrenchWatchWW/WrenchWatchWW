@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @WrenchWatchWW
-- 👀 I’m interested in OS
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on just thinking about thia 
-- 📫 you can reach me though this :- https://t.me/WrenchWatchww
+![Wrench](https://telegra.ph/file/83df5edd48afe9513f271.jpg)
